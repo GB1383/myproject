@@ -1,4 +1,8 @@
-React responsive website from Gobind.
+React responsive website from Students in Humber College.
+
+1) Urvin Patel, Student Id: N01519084
+2) Gobind , Student Id: N01518874
+
 
 Simple Responsive website. Checkout the screenshot below:
 
